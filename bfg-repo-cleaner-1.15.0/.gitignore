@@ -1,0 +1,14 @@
+target
+*~
+.idea
+.idea_modules
+*.iml
+*.jar
+repo.git.zip
+**/.project
+**/.classpath
+**/.settings
+.bsp
+
+.DS_Store
+test-results/

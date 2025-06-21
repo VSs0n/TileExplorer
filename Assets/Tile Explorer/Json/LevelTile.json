@@ -1,0 +1,30 @@
+[
+  {
+    "level": 1,
+    "layers": [
+      {
+        "orderInLayer": 0,
+        "rows": 3,
+        "cols": 4,
+        "yOffset": 0.0
+      },
+      {
+        "orderInLayer": 1,
+        "rows": 2,
+        "cols": 3,
+        "yOffset": 2.5
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "layers": [
+      {
+        "orderInLayer": 0,
+        "rows": 5,
+        "cols": 5,
+        "yOffset": 0.0
+      }
+    ]
+  }
+]
